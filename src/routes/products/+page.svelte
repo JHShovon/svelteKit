@@ -1,5 +1,5 @@
 <script>
-   export let productID = 100
+export let productID = 100;
 </script>
 
 <a href="/">Home</a>
